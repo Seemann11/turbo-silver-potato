@@ -10,14 +10,12 @@
 ### Фронтенд (Frontend)
 * **Framework:** React (Vite) + TypeScript
 * **Стилизация:** Tailwind CSS (Адаптивная верстка, подход Mobile-First)
-* **Роутинг:** React Router DOM
 * **Анимации:** Swiper.js (слайдеры), AOS / Framer Motion (анимация при скролле)
 
 ### Бэкенд (Backend) & База данных
-* **Сервер:** Node.js + Express + TypeScript
+* **Сервер:** Node.js
 * **База данных:** PostgreSQL
 * **ORM:** Prisma (миграции, моделирование данных, seed-скрипты)
-* **Безопасность:** Хеширование паролей (bcrypt), авторизация на базе JWT-токенов
 
 ---
 
